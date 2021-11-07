@@ -1,0 +1,11 @@
+Consider the cros-section of a nuclear fuel rod as shown below. Nuclear energy at uniform rate
+of q’’’ W/m3 is generated at the rod. The surrounding coolant temperature T∞ and the heat transfer
+coefficient is h. Obtain steady state temperature distribution in the rod.
+                                         ______
+                                        |      |
+                                        |      |
+                                        |      |
+                                        |      |
+                                        |      |_____________
+                                        |                    |
+                                        |____________________|
